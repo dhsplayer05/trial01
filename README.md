@@ -14,3 +14,5 @@ My education
 1. ABC primary school
 2. Duham Secondary School  
 
+![Dunham Secondary School Students](students.jpg)
+
